@@ -46,3 +46,108 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+/* ============================== HOME ================================= */
+
+*{
+	background-color: #161616;
+	color: aliceblue;
+}
+
+#subline{
+	position: absolute;
+	margin-top: 40px;
+	margin-left: 90px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-weight: 600;
+	color: #959da5;
+}
+
+.title {
+	position: absolute;
+	margin-top: 65px;
+	margin-left: 90px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 35px;
+	font-weight: 900;
+	height: 42px;
+	background: -webkit-linear-gradient(#FF5A00, #FFBE00);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+
+.line{
+	color: #959da5;
+	position: absolute;
+  	margin-top: 135px;
+	margin-bottom: 0.5em;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: inset;
+	border-width: 1px;
+	width: 100vw;
+	align-content: center;
+}
+
+
+#heroline{
+	position: absolute;
+	margin-top: 165px;
+	margin-left: 90px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-weight: 500;
+	font-size: 20px;
+	color: #959da5;
+
+}
+
+.subtitle{
+	position: absolute;
+	margin-top: 195px;
+	margin-left: 90px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 50px;
+	font-weight: 800;
+}
+
+.link-button{
+	position: absolute;
+	margin-top: 260px;
+	margin-left: 90px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 20px;
+	font-weight: 600;
+	text-decoration: none;
+	color: #FF5A00;
+}
+
+.box-line{
+	width: 35px;
+	height: 8px;
+	background-color: white;
+}
+
+#boxline1 {
+	position: absolute;
+	margin-top: 275px;
+	margin-left: 90px;
+}
+
+.med-text{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 18px;
+}
+
+#med1 {
+	position: absolute;
+	margin-top: 310px;
+	margin-left: 90px;
+}
+
+#med2 {
+	position: absolute;
+	margin-left: 90px;
+	margin-top: 340px;
+}
+
+/*         <a target="blank" class="link-button" href="https://bit.ly/kpl2020">Register Now &#8594;</a> */
