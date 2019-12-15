@@ -50,9 +50,13 @@ table {
 /* ====================== START ==========================*/
 
 
+body{
+	background-color: #313131;
+}
+
 .navbar{
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-	height: 60px;
+	height: 80px;
 	background-color: #313131;
 }
 
@@ -75,4 +79,37 @@ a:hover{
 .btn:hover{
 	background-color: #ff8c00;
 	border: none;
+}
+
+.container{
+	padding: 0;
+	position: relative;
+	margin-left: 10px;
+	width: 90vw;
+	border: none;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	background-color: transparent;
+}
+
+
+.card{
+	padding: 10px;
+	margin: 10px;
+	width: 320px;
+}
+
+.card-title{
+	position: relative;
+	margin-top: 10px;
+	margin-left: 10px;
+	font-weight: 600;
+}
+
+.nav{
+	position: relative;
+	margin-top: 30px;
+	margin-left: 15px;
+	margin-bottom: 25px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 }
