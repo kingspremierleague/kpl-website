@@ -113,3 +113,24 @@ a:hover{
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
+
+.nav-link{
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+.captain-image{
+	position: relative;
+	margin-left: -15px;
+	width: 50px;
+	height: auto;
+}
+
+.captain-name{
+	position: absolute;
+	margin-top: 15px;
+	margin-left: 14px;
+	font-size: 16px;
+}
